@@ -4,12 +4,13 @@ This guideline is being written by Sakib Shahriar (#12615094) solely for the pur
 ### Chemistry
 <details>
   <summary>Class 01: 30/09/2024</summary>
-  On this day, during the lab class, besides an introductory session on lab apparatus, a sample of preparing rough sheets was demonstrated. The instructions are listed below:
-  
+  <p> On this day, during the lab class, besides an introductory session on lab apparatus, a sample of preparing rough sheets was demonstrated. The instructions are listed below: <p>
+  <ul>
   + Use A4 sized paper.
   + On the top right corner, over the horizontal margin, write the roll number (don't use #) and date (in the next line).
   + In the main body of the rough sheet, you have to write 6 points (Number of the Experiment, Name of the Experiment, Principle, Required Apparatus, Required Chemicals, Table). These are to be written in left alignment.
   + The table is to be made with a pencil, and the rest of the writings are to be done with a black pen.
+  <ul>
 </details>
 
 ## Biology
