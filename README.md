@@ -1,4 +1,4 @@
-# Practical Guideline
+# Labclass Trackbook
 This guideline is being written by Sakib Shahriar (#12615094) solely for the purpose of helping the fellow lab-mates of the lab groups E4 (Science) and G1 (ICT). This guideline will be updated time to time after each lab session of the aforementioned lab group. Even though, it is dedicated for the lab-mates of my group, students of any other lab group are welcome to follow the general guidelines as well. Additionally, samples of rough sheets and fair sheets *might* be posted here as well.
 ## Physics
 ## Chemistry
@@ -22,4 +22,4 @@ This guideline is being written by Sakib Shahriar (#12615094) solely for the pur
 ## Biology
 ## Information and Communication Technology (ICT)
 
-Please note that, these information are 
+<p> Please note that this information is solely based on my personal interpretation of the guidelines and confirmation from some of my friends. </p>
