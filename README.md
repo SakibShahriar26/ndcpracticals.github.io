@@ -14,7 +14,7 @@ This guideline is being written by Sakib Shahriar (#12615094) solely for the pur
   <li> The table is to be made with a pencil, and the rest of the writings are to be done with a black pen. </li>
   <li> If needed, additional pages can be used and writing on both sides of the rough sheet is suggested.</li>
   <li> If additional page(s) is/are used, then they are to be stapled at the top-left corner.</li>
-  <li> Use of blue pens (?)</li>
+  <li> Use of blue pens in the rough sheet is *probably* allowed.</li>
   <li> On the next day, the rough sheet has to be shown while entering the lab, where it will be checked and sealed (if found perfect). Otherwise, makeup! 🙂</li>
   </ul>
 </details>
